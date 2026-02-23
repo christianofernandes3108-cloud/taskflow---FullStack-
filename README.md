@@ -267,7 +267,7 @@ The goal is to demonstrate readiness for a junior full-stack developer role by i
 
 ## Author
 
-Christiano [Your Surname]
+Christiano Fernandes
 
 ---
 
