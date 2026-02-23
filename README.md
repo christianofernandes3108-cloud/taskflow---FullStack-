@@ -10,8 +10,8 @@ This project was designed to reflect how real-world web applications function en
 
 ## Live Demo
 
-Frontend: https://YOUR_NETLIFY_URL  
-Backend API: https://YOUR_RENDER_URL  
+Frontend: sparkling-maamoul-f5a721.netlify.app  
+Backend API: https://taskflow-fullstack-u69e.onrender.com  
 
 ---
 
